@@ -1,0 +1,5 @@
+output_json/
+output_media/
+.DS_Store
+*.mdx
+*.mdd
