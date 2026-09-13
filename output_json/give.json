@@ -1,0 +1,942 @@
+{
+    "Word": "give",
+    "Phonetic": "ɡɪv",
+    "POS": "verb",
+    "Stars": "●●●",
+    "Frequency": [
+        "S1",
+        "W1"
+    ],
+    "Audio": [
+        "sound://hwd/bre/4/give_v0205.mp3",
+        "sound://hwd/ame/3/give1.mp3"
+    ],
+    "Senses": [
+        {
+            "sense_index": 1,
+            "number": "1",
+            "signpost": "present or money",
+            "grammar": "[intransitive, transitive]",
+            "definition": "to let someone have something as a present, or to provide something for someone",
+            "examples": [
+                "What did Bob give you for your birthday?",
+                "Researchers were given a £10,000 grant to continue their work.",
+                "I’ve got some old diaries that my grandmother gave me years ago.",
+                "a ring which was given to him by his mother",
+                "I didn’t steal it! Maria gave it to me!",
+                "Most people are willing to give to charity .",
+                "The situation is now desperate, so please give generously ."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 2,
+            "number": "2",
+            "signpost": "put something in somebody’s hand",
+            "grammar": "[transitive]",
+            "definition": "to put something in someone’s hand",
+            "examples": [
+                "Give me the letter, please.",
+                "He poured some wine into a glass and gave it to her."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 3,
+            "number": "3",
+            "signpost": "let somebody do something",
+            "grammar": "[transitive]",
+            "definition": "to allow or make it possible for someone to do something",
+            "examples": [
+                "He finally gave us permission to leave.",
+                "These meetings give everyone a chance to express their opinions.",
+                "Students are given the freedom to choose their own topics.",
+                "Language gives us the ability to communicate at a much higher level than any other animal.",
+                "Women were given the vote in the early 1900s.",
+                "She was given absolute control over all recruitment decisions.",
+                "This bill will give more power to local authorities."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 4,
+            "number": "4",
+            "signpost": "tell somebody something",
+            "grammar": "[transitive]",
+            "definition": "to tell someone information or details about something, or to tell someone what they should do",
+            "examples": [
+                "She gave me some information on university courses.",
+                "My secretary will be able to give you more details.",
+                "Let me give you some advice .",
+                "She certainly likes giving orders.",
+                "They were given strict instructions not to tell anyone.",
+                "Can you give me directions to the station (= tell me how to go there ) ?",
+                "He gave the following example .",
+                "You may have to give evidence in court (= tell a court about what you have seen or know to be true ) .",
+                "He gave a disturbing account of the murder."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 5,
+            "number": "5",
+            "signpost": "make a movement/do an action",
+            "grammar": "[transitive]",
+            "definition": "to do something by making a movement with your hand, face, body etc",
+            "examples": [
+                "She gave a little frown.",
+                "Joel gave me a smile as I walked in.",
+                "He gave her a big hug.",
+                "He gave a wave of his hand.",
+                "Don’t move until I give the signal.",
+                "She picked up the envelope and gave it a shake."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 6,
+            "number": "6",
+            "signpost": "speech/talk/performance",
+            "grammar": "[transitive]",
+            "definition": "to make a speech, perform a piece of music etc for a group of people",
+            "examples": [
+                "He’s giving a talk on early Roman pottery.",
+                "They gave one of their best performances to date."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 7,
+            "number": "7",
+            "signpost": "make somebody have a feeling",
+            "grammar": "[transitive]",
+            "definition": "to make someone have a feeling",
+            "examples": [
+                "He gave us quite a shock .",
+                "The course has given me a lot more confidence .",
+                "His job did not give him much sense of fulfilment.",
+                "Their music has given pleasure to a lot of people over the years.",
+                "Keep the noise down – you’re giving me a headache!"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 8,
+            "number": "8",
+            "signpost": "make somebody have problems",
+            "grammar": "[transitive]",
+            "definition": "to make someone have problems",
+            "examples": [
+                "The new software has given us quite a few problems."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 9,
+            "number": "9",
+            "signpost": "make somebody ill",
+            "grammar": "[transitive]",
+            "definition": "to infect someone with the same illness that you have",
+            "examples": [
+                "Don’t come too close – I don’t want you to give me your cold!",
+                "It’s very unlikely a doctor could give HIV to a patient."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 10,
+            "number": "10",
+            "signpost": "organize a social event",
+            "grammar": "[transitive]",
+            "definition": "to organize a social event such as a party",
+            "examples": [
+                "We’re giving a small party for dad’s birthday next week."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 11,
+            "number": "11",
+            "signpost": "make somebody do something",
+            "grammar": "[transitive]",
+            "definition": "to tell someone to do a job or piece of work",
+            "examples": [
+                "How much homework are you given in a week?",
+                "He’s always giving us chores to do around the house."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 12,
+            "number": "12",
+            "signpost": "make somebody/something have a quality",
+            "grammar": "[transitive]",
+            "definition": "to make someone or something have a particular quality",
+            "examples": [
+                "The ginger gives the dish a wonderful spicy flavour.",
+                "His grey hair gave him an air of distinction.",
+                "Its association with the movie industry has given the place a certain glamor."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 13,
+            "number": "13",
+            "signpost": "pay for",
+            "grammar": "[transitive]",
+            "definition": "to pay a particular amount of money for something",
+            "examples": [
+                "They say they’re not willing to give any more than they’ve already offered.",
+                "They gave us £700 for our old car.",
+                "How much will you give me for these two games?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 14,
+            "number": "14",
+            "signpost": "behave towards",
+            "grammar": "[transitive]",
+            "definition": "to behave towards someone in a way that shows you have a particular attitude or feeling towards them",
+            "examples": [
+                "The people were expected to give their leader absolute obedience and loyalty."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 15,
+            "number": "15",
+            "signpost": "punishment",
+            "grammar": "[transitive]",
+            "definition": "to officially say that someone must have a particular punishment",
+            "examples": [
+                "If you don’t pay on time, you could be given a fine of up to $1,000.",
+                "The judge gave her two years in prison."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 16,
+            "number": "16",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make someone think about something in a particular way",
+            "examples": [
+                "I didn’t want to give him the wrong idea about the job.",
+                "The report gives us a very accurate picture of life in the inner cities."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 17,
+            "number": "17",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to spend some time thinking about something carefully",
+            "examples": [
+                "Congress has been giving the crime bill serious consideration.",
+                "I’ll give the matter some thought and let you know my decision next week."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 18,
+            "number": "18",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to help someone do something",
+            "examples": [
+                "Can you give me a hand?",
+                "Shall I give you a hand with that bag?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 19,
+            "number": "19",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to telephone someone",
+            "examples": [
+                "I’ll give you a call about seven, okay?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 20,
+            "number": "20",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to try to do something, especially something you have not done before",
+            "examples": [
+                "I’m not usually much good at this sort of game, but I’ll give it a go."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 21,
+            "number": "21",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to allow time for someone to do something, or for something to happen",
+            "examples": [
+                "I’ve asked him to give me a couple more days to finish my essay.",
+                "Flexible working hours could give working parents more time to spend with their children."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 22,
+            "number": "22",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to say that you do not think something will continue successfully for very long",
+            "examples": [
+                "I give the project six months at the most before it all falls apart."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 23,
+            "number": "23",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to not think or worry about something at all",
+            "examples": [
+                "The matter didn’t seem important, and I hardly gave it a second thought."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 24,
+            "number": "24",
+            "signpost": "be less strict",
+            "grammar": "[intransitive]",
+            "definition": "to be willing to change what you think or do according to what else happens",
+            "examples": [
+                "I think that both sides need to give a little."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 25,
+            "number": "25",
+            "signpost": "state a decision",
+            "grammar": "[transitive]",
+            "definition": "to state what your official decision or judgment is, for example in a game",
+            "examples": [
+                "The referee has given a penalty.",
+                "The jury will be giving its verdict within the next couple of days."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 26,
+            "number": "26",
+            "signpost": "give a mark/score",
+            "grammar": "[transitive]",
+            "definition": "to decide that someone should have a particular score or mark for something that they have done",
+            "examples": [
+                "She only gave me a B for my last essay.",
+                "The judges have given him top marks for this performance."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 27,
+            "number": "27",
+            "signpost": "bend/stretch",
+            "grammar": "[intransitive]",
+            "definition": "if a material gives, it bends or stretches when you put pressure on it",
+            "examples": [
+                "New shoes often feel tight, but the leather should give a little after a few days."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 28,
+            "number": "28",
+            "signpost": "break/move",
+            "grammar": "[intransitive]",
+            "definition": "if something gives, it breaks or moves away suddenly because of weight or pressure on it",
+            "examples": [
+                "The branch suddenly gave beneath him.",
+                "I pushed against the door with all my might, but it still wouldn’t give."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 29,
+            "number": "29",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to say that you like something much more than something else",
+            "examples": [
+                "Give me good old-fashioned rock ‘n’ roll any day!"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 30,
+            "number": "30",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used when you would like something very much",
+            "examples": [
+                "I’d give my right arm for a figure like that."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 31,
+            "number": "31",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to say that you do not care at all about something",
+            "examples": [
+                "· I don’t give a damn what you think."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 32,
+            "number": "32",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to say that you do not believe someone’s excuse or explanation",
+            "examples": [
+                "Don’t give me that! I know exactly where you’ve been!"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 33,
+            "number": "33",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to tell someone angrily that you are annoyed with them",
+            "examples": [
+                "I’ll give that boy what for when I see him!"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 34,
+            "number": "34",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to fight or argue with someone using the same amount of skill or force that they are using",
+            "examples": [
+                "I don’t worry about Emma because I know she can give as good as she gets."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 35,
+            "number": "35",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to help other people and do things for them as well as expecting them to do things for you",
+            "examples": [
+                "You have to learn to give and take in any relationship."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 36,
+            "number": "36",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to say that the amount or figure that you have just mentioned is nearly correct, but not exactly",
+            "examples": [
+                "It’ll be a £1,000, give or take £50 or so."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 37,
+            "number": "37",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to admit that someone is right about something",
+            "examples": [
+                "I was wrong to trust him, I’ll give you that."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 38,
+            "number": "38",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make someone think that a particular thing is true",
+            "examples": [
+                "I was given to understand that I would be offered a permanent job."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 39,
+            "number": "39",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to tell someone something in a clear direct way",
+            "examples": [
+                "There’s no point in beating about the bush, so I’ll give it to you straight."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 40,
+            "number": "40",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used at the end of a formal speech to invite people to welcome a special guest",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 41,
+            "number": "41",
+            "signpost": "sex",
+            "grammar": "[transitive]",
+            "definition": "if a woman gives herself to a man, she has sex with him",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 42,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give something to someone because you do not want or need it for yourself",
+            "examples": [
+                "I gave most of my books away when I left college.",
+                "Give your old clothes away to a thrift shop."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 43,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give something to someone without asking for any money, rather than selling it to them",
+            "examples": [
+                "We’re giving away a free diary with tomorrow’s newspaper.",
+                "We have 1,000 CDs to give away to our readers."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 44,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to show where someone is or what they are doing or thinking when they are trying to keep this a secret",
+            "examples": [
+                "Don’t worry, I won’t give you away.",
+                "Sue tried to smile, but her voice gave her away.",
+                "I knew that if I moved I would give myself away.",
+                "The look on his face gave the game away (= showed something that he was trying to keep secret ) ."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 45,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to tell someone something that you should keep secret",
+            "examples": [
+                "He gave away as little information as possible.",
+                "I don’t want to give away exactly how the system works.",
+                "I don’t want to give the game away (= give information that should be secret ) by saying too much."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 46,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to lose in a game or competition by doing something badly or making mistakes",
+            "examples": [
+                "We gave away two goals in the first half.",
+                "The Democrats are now in danger of giving the whole election away."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 47,
+            "number": "6",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give formal permission for a woman to marry a man as part of a traditional wedding ceremony",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 48,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give something to the person it belongs to or the person who gave it to you",
+            "examples": [
+                "This isn’t your money and you must give it back.",
+                "Of course you can have a look at it, as long as you give it back.",
+                "I’ll give the keys back to you tomorrow morning.",
+                "Her ex-husband refused to give her back any of her old photos and letters."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 49,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make it possible for someone to have or do something again",
+            "examples": [
+                "He underwent an expensive operation to give him back his sight.",
+                "The company finally agreed to give the women their old jobs back.",
+                "This legislation will give more power back to local authorities."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 50,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to finally agree to do or accept something that you had at first opposed, especially because someone has forced or persuaded you to",
+            "examples": [
+                "Eventually I gave in and accepted the job on their terms.",
+                "Bob’s wife went on at him so much that eventually he gave in.",
+                "The government refused to give in to their demands."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 51,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to accept that you are defeated in a game, fight, competition etc",
+            "examples": [
+                "The rebels were eventually forced to give in.",
+                "We will carry on fighting to the end. We will never give in."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 52,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give a piece of work or something you have written to someone in authority",
+            "examples": [
+                "You were supposed to give this work in four days ago.",
+                "Rose decided to give in her notice (= officially say she was going to leave her job ) .",
+                "All assignments must be given in to your teacher by Friday."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 53,
+            "number": "53",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to no longer try to stop yourself from doing something you want to do",
+            "examples": [
+                "Don’t give in to the temptation to argue back.",
+                "If you feel the urge for a cigarette, try not to give in to it."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 54,
+            "number": "54",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if you give of yourself, your time, your money etc, you do things for other people without expecting anything in return",
+            "examples": [
+                "Retired people are often willing to give of their time to help with community projects."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 55,
+            "number": "55",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to produce a smell, light, heat, a sound etc",
+            "examples": [
+                "The wood gave off a sweet, perfumed smell as it burned."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 56,
+            "number": "56",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if a window, door, or building gives onto a particular place, it leads to that place or you can see that place from it",
+            "examples": [
+                "the garden gate that gives onto the main road",
+                "a small balcony giving onto fields"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 57,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give something to each person in a group",
+            "examples": [
+                "Can you give the drinks out, please?",
+                "Students were giving out leaflets to everyone on the street."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 58,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if part of your body gives out, it stops working properly or becomes much weaker",
+            "examples": [
+                "Just as I approached the town, my legs finally gave out."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 59,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if a supply of something gives out, there is none left",
+            "examples": [
+                "My money was beginning to give out and there were no jobs to be found.",
+                "After two hours her patience gave out."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 60,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to produce something such as light, heat, or a signal",
+            "examples": [
+                "A gas lamp gave out a pale yellowish light."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 61,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to announce something, especially officially",
+            "examples": [
+                "It was given out that the government was to enter into negotiations with the rebels."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 62,
+            "number": "62",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to stop doing or saying something that is annoying other people",
+            "examples": [
+                "I wish you lot would just give over!",
+                "Oh, give over complaining, we’re nearly there."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 63,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to be used for a particular purpose",
+            "examples": [
+                "The land surrounding the village was given over to vineyards.",
+                "The whole day was given over to cooking and preparing for the celebrations."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 64,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to spend all your time doing something",
+            "examples": [
+                "In his youth he had given himself over to pleasure."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 65,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give responsibility for or control over something to a particular person, organization etc",
+            "examples": [
+                "The running of internal affairs was given over to the Chancellor."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 66,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to stop doing something, especially something that you do regularly",
+            "examples": [
+                "Darren has decided to give up football at the end of this season.",
+                "She gave up her job and started writing poetry.",
+                "I gave up going to the theatre when I moved out of London.",
+                "Why don’t you give up smoking?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 67,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to stop trying to do something",
+            "examples": [
+                "We spent half an hour looking for the keys, but eventually gave up and went home.",
+                "I give up. What’s the answer?",
+                "You shouldn’t give up so easily .",
+                "I gave up trying to persuade him to continue with his studies.",
+                "She has still not given up the search.",
+                "The ground was too hard to dig so I gave it up as a bad job (= stopped trying because success seemed unlikely ) ."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 68,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to allow yourself or someone else to be caught by the police or enemy soldiers",
+            "examples": [
+                "The siege ended peacefully after the gunman gave himself up.",
+                "In the end, his family gave him up to the police."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 69,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to use some of your time to do a particular thing",
+            "examples": [
+                "I don’t mind giving up a couple of hours a week to deal with correspondence."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 70,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to give something that is yours to someone else",
+            "examples": [
+                "The family refused to give up any of their land.",
+                "She was put under tremendous pressure to give the baby up.",
+                "I would always give my seat up to an elderly person on the bus."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 71,
+            "number": "6",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to end a romantic relationship with someone, even though you do not really want to",
+            "examples": [
+                "I knew deep down that I should give him up."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 72,
+            "number": "7",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to believe that someone is dead and stop looking for them",
+            "examples": [
+                "The ship sank and the crew were given up for dead."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 73,
+            "number": "8",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to ask people to applaud someone",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 74,
+            "number": "74",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to stop hoping that someone or something will change or improve",
+            "examples": [
+                "He’d been in a coma for six months, and doctors had almost given up on him.",
+                "At that point, I hadn’t completely given up on the marriage."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 75,
+            "number": "75",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to allow yourself to feel an emotion completely, without trying to control it",
+            "examples": [
+                "He gave himself up to despair."
+            ],
+            "collocations": []
+        }
+    ],
+    "GlobalCommonErrors": [],
+    "GlobalCorpus": [
+        "give to charity",
+        "please give generously",
+        "gave",
+        "permission",
+        "give",
+        "a chance",
+        "advice",
+        "directions",
+        "example",
+        "give evidence",
+        "gave us",
+        "a shock",
+        "given",
+        "confidence",
+        "giving a",
+        "party",
+        "giving",
+        "verdict",
+        "gave the game away",
+        "give the game away",
+        "give in",
+        "notice",
+        "give up",
+        "easily",
+        "gave it up as a bad job"
+    ]
+}

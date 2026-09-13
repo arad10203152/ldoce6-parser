@@ -1,0 +1,1076 @@
+{
+    "Word": "take",
+    "Phonetic": "teɪk",
+    "POS": "verb",
+    "Stars": "●●●",
+    "Frequency": [
+        "S1",
+        "W1"
+    ],
+    "Audio": [
+        "sound://hwd/bre/a/take_n0205.mp3",
+        "sound://hwd/ame/a/take1.mp3"
+    ],
+    "Senses": [
+        {
+            "sense_index": 1,
+            "number": "1",
+            "signpost": "move",
+            "grammar": "[transitive]",
+            "definition": "to move or go with someone or something from one place to another",
+            "examples": [
+                "Barney took us to the airport.",
+                "Would you mind taking Susie home ?",
+                "When he refused to give his name, he was taken into custody.",
+                "My job has taken me all over the world.",
+                "His wife went to Australia, taking the children with her.",
+                "I have to take Steve the money tonight.",
+                "He took me to meet his parents."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 2,
+            "number": "2",
+            "signpost": "action",
+            "grammar": "[transitive]",
+            "definition": "used with a noun instead of using a verb to describe an action. For example, if you take a walk, you walk somewhere",
+            "examples": [
+                "Would you like to take a look?",
+                "Mike’s just taking a shower.",
+                "Sara took a deep breath.",
+                "I waved, but he didn’t take any notice (= pretended not to notice ) . British English",
+                "Please take a seat (= sit down ) .",
+                "Would you mind taking a photo of us together?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 3,
+            "number": "3",
+            "signpost": "remove",
+            "grammar": "[transitive]",
+            "definition": "to remove something from a place",
+            "examples": [
+                "Take your feet off the seats.",
+                "Someone’s taken a pen from my desk.",
+                "Police say money and jewellery were taken in the raid."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 4,
+            "number": "4",
+            "signpost": "time/money/effort etc",
+            "grammar": "[transitive]",
+            "definition": "if something takes a particular amount of time, money, effort etc, that amount of time etc is needed for it to happen or succeed",
+            "examples": [
+                "How long is this going to take ?",
+                "Organizing a successful street party takes a lot of energy.",
+                "Repairs take time to carry out.",
+                "It took a few minutes for his eyes to adjust to the dark.",
+                "It took me ages to find a present for Dad.",
+                "Catching up four goals will take some doing.",
+                "It takes courage to admit you are wrong.",
+                "Neil’s got what it takes to be a great footballer."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 5,
+            "number": "5",
+            "signpost": "accept",
+            "grammar": "[transitive]",
+            "definition": "to accept or choose something that is offered, suggested, or given to you",
+            "examples": [
+                "Will you take the job?",
+                "Do you take American Express?",
+                "If you take my advice , you’ll see a doctor.",
+                "Our helpline takes 3.5 million calls (= telephone calls ) a year.",
+                "Some doctors are unwilling to take new patients without a referral.",
+                "Liz found his criticisms hard to take .",
+                "I just can’t take any more (= can’t deal with a bad situation any longer ) .",
+                "Staff have agreed to take a 2% pay cut.",
+                "Small businesses took a hammering in the last recession.",
+                "That’s the truth – take it from me .",
+                "He’s the kind of man who makes things happen but lets others take the credit.",
+                "It isn’t official yet, but you can take it as read that you’ve got the contract."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 6,
+            "number": "6",
+            "signpost": "hold something",
+            "grammar": "[transitive]",
+            "definition": "to get hold of something in your hands",
+            "examples": [
+                "Let me take your coat.",
+                "Can you take this package while I get my wallet?",
+                "I just wanted to take him in my arms."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 7,
+            "number": "7",
+            "signpost": "travel",
+            "grammar": "[transitive]",
+            "definition": "to use a particular form of transport or a particular road in order to go somewhere",
+            "examples": [
+                "Let’s take a cab.",
+                "I took the first plane out.",
+                "Take the M6 to Junction 19."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 8,
+            "number": "8",
+            "signpost": "study",
+            "grammar": "[transitive]",
+            "definition": "to study a particular subject in school or college for an examination",
+            "examples": [
+                "Are you taking French next year?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 9,
+            "number": "9",
+            "signpost": "test",
+            "grammar": "[transitive]",
+            "definition": "to do an examination or test",
+            "examples": [
+                "Applicants are asked to take a written test."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 10,
+            "number": "10",
+            "signpost": "suitable",
+            "grammar": "[transitive]",
+            "definition": "to be the correct or suitable size, type etc for a particular person or thing",
+            "examples": [
+                "a car that takes low sulphur fuel",
+                "What size shoe do you take?",
+                "The elevator takes a maximum of 32 people.",
+                "· I take size 12."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 11,
+            "number": "11",
+            "signpost": "collect",
+            "grammar": "[transitive]",
+            "definition": "to collect or gather something for a particular purpose",
+            "examples": [
+                "Investigators will take samples of the wreckage to identify the cause.",
+                "The police took a statement from both witnesses."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 12,
+            "number": "12",
+            "signpost": "consider",
+            "grammar": "[intransitive, transitive always + adverb/preposition]",
+            "definition": "to react to someone or something or consider them in a particular way",
+            "examples": [
+                "I was joking, but he took me seriously.",
+                "Ben took the news very badly.",
+                "She does not take kindly to criticism (= reacts badly to criticism ) .",
+                "I’ll take that remark as a compliment.",
+                "The presence of dust clouds has been taken as evidence of recent star formation.",
+                "I took her to be his daughter.",
+                "Of course I won’t tell anyone! What do you take me for ? (= what sort of person do you think I am? )",
+                "I take it (= I assume ) you’ve heard that Rick’s resigned."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 13,
+            "number": "13",
+            "signpost": "feelings",
+            "grammar": "[transitive usually + adverb]",
+            "definition": "to have or experience a particular feeling",
+            "examples": [
+                "You should take pride in your work.",
+                "At first, he took no interest in the baby.",
+                "She stood feeling lost until an elderly man took pity on her.",
+                "Don’t take offence. Roger says things like that to everybody.",
+                "Investors can take comfort from the fact that the World Bank is underwriting the shares."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 14,
+            "number": "14",
+            "signpost": "control",
+            "grammar": "[transitive]",
+            "definition": "to get possession or control of something",
+            "examples": [
+                "Enemy forces have taken the airport.",
+                "Both boys were taken prisoner .",
+                "The communists took power in 1948.",
+                "Youngsters need to take control of their own lives."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 15,
+            "number": "15",
+            "signpost": "medicine/drugs",
+            "grammar": "[transitive]",
+            "definition": "to swallow, breathe in, inject etc a drug or medicine",
+            "examples": [
+                "The doctor will ask whether you are taking any medication.",
+                "Take two tablets before bedtime.",
+                "Most teenagers start taking drugs through boredom.",
+                "She took an overdose after a row with her boyfriend."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 16,
+            "number": "16",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to ask someone whether they like to have sugar or milk in a drink such as tea or coffee",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 17,
+            "number": "17",
+            "signpost": "level",
+            "grammar": "[transitive always + adverb/preposition]",
+            "definition": "to make someone or something go to a higher level or position",
+            "examples": [
+                "The latest raise takes his salary into six figures.",
+                "Even if you have the talent to take you to the top , there’s no guarantee you’ll get there.",
+                "If you want to take it further , you should consult an attorney."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 18,
+            "number": "18",
+            "signpost": "measure",
+            "grammar": "[transitive]",
+            "definition": "to measure the amount, level, rate etc of something",
+            "examples": [
+                "Take the patient’s pulse first."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 19,
+            "number": "19",
+            "signpost": "numbers",
+            "grammar": "[transitive]",
+            "definition": "to make a number smaller by a particular amount",
+            "examples": [
+                "‘Take four from nine and what do you get?’ ‘Five.’",
+                "Ten take away nine equals one."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 20,
+            "number": "20",
+            "signpost": "money",
+            "grammar": "[transitive]",
+            "definition": "if a shop, business etc takes a particular amount of money, it receives that amount of money from its customers",
+            "examples": [
+                "The stall took £25 on Saturday."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 21,
+            "number": "21",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to neither like nor dislike something",
+            "examples": [
+                "To some people, smoking is addictive. Others can take it or leave it."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 22,
+            "number": "22",
+            "signpost": "",
+            "grammar": "",
+            "definition": "used to give an example of something you have just been talking about",
+            "examples": [
+                "People love British cars. Take the Mini. In Japan, it still sells more than all the other British cars put together."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 23,
+            "number": "23",
+            "signpost": "teach",
+            "grammar": "[transitive]",
+            "definition": "to teach a particular group of students in a school or college",
+            "examples": [
+                "Who takes you for English?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 24,
+            "number": "24",
+            "signpost": "write",
+            "grammar": "[transitive]",
+            "definition": "to write down information",
+            "examples": [
+                "Let me take your email address.",
+                "Sue offered to take notes ."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 25,
+            "number": "25",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make someone forget their problems and feel more confident",
+            "examples": [
+                "Alf said joining the club would take me out of myself."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 26,
+            "number": "26",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make you very tired",
+            "examples": [
+                "Looking after a baby really takes it out of you."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 27,
+            "number": "27",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to decide to do something without getting someone’s permission or approval first",
+            "examples": [
+                "Reg took it upon himself to hand the press a list of names."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 28,
+            "number": "28",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to separate something into its different parts",
+            "examples": [
+                "how to take an engine to bits"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 29,
+            "number": "29",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to be attracted by a particular idea, plan, or person",
+            "examples": [
+                "I’m quite taken by the idea of Christmas in Berlin."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 30,
+            "number": "30",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to suddenly become ill",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 31,
+            "number": "31",
+            "signpost": "sex",
+            "grammar": "[transitive]",
+            "definition": "if a man takes someone, he has sex with them",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 32,
+            "number": "32",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to try to get over or around something in a particular way",
+            "examples": [
+                "He took the bend at over 60 and lost control."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 33,
+            "number": "33",
+            "signpost": "have an effect",
+            "grammar": "[intransitive]",
+            "definition": "if a treatment, dye , drug etc takes, it begins to work successfully",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 34,
+            "number": "34",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to be very surprised about something",
+            "examples": [
+                "Emma was somewhat taken aback by his directness."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 35,
+            "number": "35",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to look or behave like an older relative",
+            "examples": [
+                "Jenni really takes after her mother."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 36,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to separate something into all its different parts",
+            "examples": [
+                "Tom was always taking things apart in the garage."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 37,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to search a place very thoroughly",
+            "examples": [
+                "The police took the house apart looking for clues."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 38,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to beat someone very easily in a game, sport, fight etc",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 39,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to show that someone is wrong or something is not true",
+            "examples": [
+                "Tariq takes several gay myths apart in his book."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 40,
+            "number": "40",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to begin to dislike someone or something, especially without a good reason",
+            "examples": [
+                "Voters took against the relationship between the government and the unions in the 1970s."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 41,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to remove someone or something, or make something disappear",
+            "examples": [
+                "She whisked the tray off the table and took it away.",
+                "He was taken away to begin a prison sentence.",
+                "This should take some of the pain away."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 42,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if you buy food to take away, you buy cooked food from a restaurant and take it outside to eat it somewhere else",
+            "examples": [
+                "Fish and chips to take away, please."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 43,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to be very beautiful, exciting, or surprising",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 44,
+            "number": "44",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to spoil the good effect or success that something has",
+            "examples": [
+                "The disagreement between the two men should not take away from their accomplishments."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 45,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to admit that you were wrong to say something",
+            "examples": [
+                "You’d better take back that remark!"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 46,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to take something you have bought back to a shop because it is not suitable",
+            "examples": [
+                "If the shirt doesn’t fit, take it back."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 47,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make you remember a time in the past",
+            "examples": [
+                "Having the grandchildren around takes me back to the days when my own children were small."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 48,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to move something that is fixed in a high position to a lower position",
+            "examples": [
+                "She made us take down all the posters."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 49,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to write down information",
+            "examples": [
+                "Can I just take some details down?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 50,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to pull a piece of clothing such as trousers part of the way down your legs",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 51,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to be completely deceived by someone who lies to you",
+            "examples": [
+                "Don’t be taken in by products claiming to help you lose weight in a week."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 52,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to let someone stay in your house because they have nowhere else to stay",
+            "examples": [
+                "Brett’s always taking in stray animals."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 53,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to understand and remember new facts and information",
+            "examples": [
+                "He watches the older kids, just taking it all in.",
+                "His eyes quickly took in the elegance of her dress."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 54,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to collect or earn a particular amount of money",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 55,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to visit a place while you are in the area",
+            "examples": [
+                "They continued a few miles further to take in Hinton House."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 56,
+            "number": "6",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if you take in a show, play etc, you go to see it",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 57,
+            "number": "7",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if the police take someone in, they take them to a police station to ask them questions about a crime",
+            "examples": [
+                "All five teenagers were arrested and taken in for questioning ."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 58,
+            "number": "8",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make a piece of clothing fit you by making it narrower",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 59,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to remove a piece of clothing",
+            "examples": [
+                "He sat on the bed to take his boots off.",
+                "Charlie was taking off his shirt when the phone rang."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 60,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if an aircraft takes off, it rises into the air from the ground",
+            "examples": [
+                "I felt quite excited as the plane took off from Heathrow."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 61,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to suddenly start being successful",
+            "examples": [
+                "Mimi became jealous when Jack’s career started taking off ."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 62,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to have a holiday from work on a particular day, or for a particular length of time",
+            "examples": [
+                "I rang my boss and arranged to take some time off.",
+                "Dad took the day off to come with me."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 63,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to copy the way someone speaks or behaves, in order to entertain people",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 64,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to start to employ someone",
+            "examples": [
+                "We’re taking on 50 new staff this year."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 65,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to agree to do some work or be responsible for something",
+            "examples": [
+                "Don’t take on too much work – the extra cash isn’t worth it."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 66,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to begin to have a particular quality or appearance",
+            "examples": [
+                "Her face took on a fierce expression.",
+                "His life had taken on a new dimension."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 67,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to compete against someone or start a fight with someone, especially someone bigger or better than you",
+            "examples": [
+                "Nigeria will take on Argentina in the first round of the World Cup on Saturday.",
+                "He was prepared to take on anyone who laid a finger on us."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 68,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if a plane or ship takes on people or things, they come onto it",
+            "examples": [
+                "We stopped to take on fuel."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 69,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to take someone as your guest to a restaurant, cinema, club etc",
+            "examples": [
+                "We’re taking my folks out for a meal next week."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 70,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make a financial or legal arrangement with a bank, company, law court etc",
+            "examples": [
+                "Before taking a loan out, calculate your monthly outgoings."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 71,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to get money from your bank account",
+            "examples": [
+                "How much would you like to take out?"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 72,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to borrow books from a library",
+            "examples": [
+                "You can take out six books at a time."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 73,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to kill someone or destroy something",
+            "examples": [
+                "The building was taken out by a bomb."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 74,
+            "number": "74",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to treat someone badly when you are angry or upset, even though it is not their fault",
+            "examples": [
+                "Don’t take it out on me just because you’ve had a bad day.",
+                "Irritated with herself, she took her annoyance out on Bridget."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 75,
+            "number": "75",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to take control of something",
+            "examples": [
+                "His only reason for investing in the company was to take it over.",
+                "Ruth moved into our apartment and promptly took over."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 76,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to start to like someone or something",
+            "examples": [
+                "Sandra took to it straight away .",
+                "Charles was an odd character whom Kelly had never really taken to."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 77,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to start doing something regularly",
+            "examples": [
+                "Dee’s taken to getting up at 6 and going jogging."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 78,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to get into your bed and stay there",
+            "examples": [
+                "He was so depressed, he took to his bed for a week."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 79,
+            "number": "1",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to become interested in a new activity and to spend time doing it",
+            "examples": [
+                "Roger took painting up for a while, but soon lost interest."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 80,
+            "number": "2",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to start a new job or have a new responsibility",
+            "examples": [
+                "Peter will take up the management of the finance department.",
+                "The headteacher takes up her duties in August."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 81,
+            "number": "3",
+            "signpost": "",
+            "grammar": "",
+            "definition": "if you take up a suggestion, problem, complaint etc, you start to do something about it",
+            "examples": [
+                "Now the papers have taken up the story.",
+                "The hospital manager has promised to take the matter up with the member of staff involved.",
+                "I am still very angry and will be taking it up with the authorities."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 82,
+            "number": "4",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to fill a particular amount of time or space",
+            "examples": [
+                "The little time I had outside of school was taken up with work.",
+                "old books that were taking up space in the office"
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 83,
+            "number": "5",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to accept a suggestion, offer, or idea",
+            "examples": [
+                "Rob took up the invitation to visit.",
+                "Rick took up the challenge and cycled the 250-mile route alone."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 84,
+            "number": "6",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to move to the exact place where you should be, so that you are ready to do something",
+            "examples": [
+                "The runners are taking up their positions on the starting line."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 85,
+            "number": "7",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to make a piece of clothing shorter",
+            "examples": [],
+            "collocations": []
+        },
+        {
+            "sense_index": 86,
+            "number": "8",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to continue a story or activity that you or someone else had begun, after a short break",
+            "examples": [
+                "I’ll take up the story where you left off."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 87,
+            "number": "87",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to accept an invitation or suggestion",
+            "examples": [
+                "I’ll take you up on that offer of a drink, if it still stands."
+            ],
+            "collocations": []
+        },
+        {
+            "sense_index": 88,
+            "number": "88",
+            "signpost": "",
+            "grammar": "",
+            "definition": "to become friendly with someone, especially someone who may influence you badly",
+            "examples": [],
+            "collocations": []
+        }
+    ],
+    "GlobalCommonErrors": [],
+    "GlobalCorpus": [
+        "taking",
+        "home",
+        "didn’t take any notice",
+        "take a seat",
+        "long",
+        "take",
+        "It took",
+        "It takes",
+        "advice",
+        "takes",
+        "calls",
+        "hard to take",
+        "can’t take any more",
+        "take it from me",
+        "take samples",
+        "took",
+        "statement",
+        "not take kindly to",
+        "What do you take me for",
+        "I take it",
+        "interest in",
+        "take comfort from the fact that",
+        "taken prisoner",
+        "overdose",
+        "to the top",
+        "further",
+        "take notes",
+        "led the way",
+        "taken in for questioning",
+        "career",
+        "taking off",
+        "take it out on",
+        "took to",
+        "straight away",
+        "take the matter up",
+        "time",
+        "taken up",
+        "took up the invitation",
+        "taking up",
+        "positions"
+    ]
+}

@@ -1,0 +1,113 @@
+from pathlib import Path
+from bs4 import BeautifulSoup
+from readmdict import MDX
+import sys
+
+
+MDX_PATH = Path(
+    "../longman_dictionary_of_contemporary_english_6th_edition.mdx"
+)
+
+
+def clean_text(elements):
+    results = []
+
+    for e in elements:
+        txt = e.get_text(" ", strip=True)
+
+        if txt:
+            results.append(txt)
+
+    return list(dict.fromkeys(results))
+
+
+def parse_entry(html):
+    soup = BeautifulSoup(html, "lxml")
+
+    word = soup.select_one(".hwd")
+    phonetic = soup.select_one(".pron")
+    pos = soup.select_one(".pos")
+
+    definitions = clean_text(
+        soup.select(".def")
+    )
+
+    examples = clean_text(
+        soup.select(".example")
+    )
+
+    collocations = clean_text(
+        soup.select(".colloc")
+    )
+
+    common_errors = clean_text(
+        soup.select(".errorbox, .common-error")
+    )
+
+    corpus = clean_text(
+        soup.select(".colloinexa")
+    )
+
+    return {
+        "Word": word.get_text(strip=True) if word else "",
+        "Phonetic": phonetic.get_text(strip=True) if phonetic else "",
+        "POS": pos.get_text(strip=True) if pos else "",
+        "Definition": definitions,
+        "Examples": examples,
+        "Collocations": collocations,
+        "CommonErrors": common_errors,
+        "Corpus": corpus,
+    }
+
+
+def test_word(target):
+    mdx = MDX(str(MDX_PATH))
+
+    for key, value in mdx.items():
+        word = key.decode(
+            "utf-8",
+            errors="ignore"
+        )
+
+        if word.lower() == target.lower():
+
+            html = value.decode(
+                "utf-8",
+                errors="ignore"
+            )
+
+            print("\n" + "=" * 100)
+            print("RAW HTML PREVIEW")
+            print("=" * 100)
+
+            print(html[:5000])
+
+            print("\n" + "=" * 100)
+            print("PARSED ENTRY")
+            print("=" * 100)
+
+            parsed = parse_entry(html)
+
+            for k, v in parsed.items():
+                print(f"\n{k}")
+                print("-" * 80)
+
+                if isinstance(v, list):
+                    for item in v[:20]:
+                        print("•", item)
+                else:
+                    print(v)
+
+            return
+
+    print("Word not found:", target)
+
+
+if __name__ == "__main__":
+    word = (
+        sys.argv[1]
+        if len(sys.argv) > 1
+        else "take"
+    )
+
+    test_word(word)
