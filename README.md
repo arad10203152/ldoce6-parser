@@ -5,6 +5,13 @@ The objective of this project is to parse the raw **Longman Dictionary of Contem
 
 ---
 
+## Data Sources & Raw Assets
+The raw MDX/MDD container files used for parsing are sourced from community releases:
+* **Repository/Release:** [Sorosliu1029/English-Dictionaries (LDOCE6)](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/longman_dictionary_of_contemporary_english_6th_edition)
+* **Local Storage:** Place the downloaded `.mdx` and `.mdd` files inside a `data/` directory or reference them correctly in your parsing scripts using `pathlib`.
+
+---
+
 ## Tech Stack & Environment
 * **OS:** macOS
 * **Environment Manager:** `uv` (for fast Python package and dependency management)
